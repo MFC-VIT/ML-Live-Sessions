@@ -5,3 +5,4 @@ Codes for our ML live sessions
 
 Each session in the playlist has it's own branch in this repository. To see the code for that session, choose the appropriate branch. E.g. to see the code for session 1, checkout the Session-1 branch.
 
+[ML Marvel Session Playlist](https://www.youtube.com/playlist?list=PLToQS7BGMipaopl2yOPHLDmkBORWtGsx5)
